@@ -1,0 +1,57 @@
+{
+  "name": "Akebu",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Open Source Contributor, Technical Writer, Android Developer, Student :)",
+  "avatar": "https://github.com/akebu6.png",
+  "tags": [
+    "Open Source",
+    "Kotlin",
+    "Python",
+    "Java",
+    "C++",
+    "Technical writing",
+    "Android"
+  ],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/akebu6" },
+    { "icon": "FaGithub", "url": "https://github.com/akebu6" },
+    { "icon": "FaLinkedin", "url": "https://www.linkedin.com/in/akebu-simasiku-24186720a/" }
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/akebu6",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/akebu6",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Check out my LinkedIn profile",
+      "url": "https://www.linkedin.com/in/akebu-simasiku-24186720a/",
+      "icon": "FaLinkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Actively started learning Kotlin and Android Development",
+      "date": "2021",
+      "description": "Started learning Kotlin and Android Development"
+    },
+    {
+      "title": "GSOC Contributor",
+      "date": "2021",
+      "description": "Google Summer of Code contributor"
+    },
+    {
+      "title": "My first Hacktoberfest",
+      "date": "2021",
+      "icon": "FaGithub",
+      "color": "grey",
+      "description": "Participated in Hacktoberfest"
+    }
+  ]
+}
